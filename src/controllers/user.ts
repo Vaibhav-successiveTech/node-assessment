@@ -45,3 +45,5 @@ UserRouter.post('/login',AuthenticationMiddleware,(req:Request,res:Response)=>{
         })
     }
 })
+
+export default UserRouter;

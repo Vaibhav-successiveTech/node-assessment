@@ -6,4 +6,4 @@ const PopulateStudent = async ()=>{
     }
 }
 
-PopulateStudent();
+export default PopulateStudent;
